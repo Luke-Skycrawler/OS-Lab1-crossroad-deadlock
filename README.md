@@ -3,10 +3,10 @@ a high-concurrency approach; elegant for the most part except for the deadlock h
 
 ## abstract
 TODOs:
-[*] deadlock detection 
-[] and post-handling
-[*] right car goes first
-[*] crossroad traffic simulation under reasonable assumptions 
-[*] live demo
+-[x] deadlock detection 
+-[] and post-handling
+-[x] right car goes first
+-[x] crossroad traffic simulation under reasonable assumptions 
+-[x] live demo
 non-goals:
 * dead-lock prediction
