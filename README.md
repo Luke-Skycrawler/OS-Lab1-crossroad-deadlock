@@ -8,5 +8,7 @@ TODOs:
 - [x] right car goes first
 - [x] crossroad traffic simulation under reasonable assumptions 
 - [x] live demo
+
+
 non-goals:
-* dead-lock prediction
+- dead-lock prediction
